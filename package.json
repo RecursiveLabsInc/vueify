@@ -33,7 +33,7 @@
     "through": "^2.3.6",
     "json5": "^2.2.0",
     "vue-hot-reload-api": "^2.3.4",
-    "vue-template-compiler": "^2.6.14",
+    "vue-template-compiler": "^2.7.10",
     "vue-template-es2015-compiler": "^1.9.1"
   },
   "devDependencies": {
